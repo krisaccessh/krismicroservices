@@ -20,6 +20,7 @@ import tech.jhipster.config.DefaultProfileUtil;
 import tech.jhipster.config.JHipsterConstants;
 
 //comment added by Krishan dated 6.3.2025
+//updated second line
 @SpringBootApplication
 @EnableConfigurationProperties({ LiquibaseProperties.class, ApplicationProperties.class })
 public class KrismicroservicesApp {
